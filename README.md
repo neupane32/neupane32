@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi, I'm Aashish Neupane 👋
+### 💻 A Passionate Backend Developer
 
-<!--
-**neupane32/neupane32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **PHP and Node.js projects**
+- 🌱 I’m currently learning **Advanced Node.js and PHP**
+- 💬 Ask me about **Node.js, PHP, and Backend Development**
+- 📫 How to reach me: [aashishneupane63@gmail.com](https://www.linkedin.com/in/aashish-neupane-a4a7bb2ab/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Languages and Tools:
+- **Backend**: Node.js, PHP
+- **Frontend**: HTML, CSS, JavaScript,
+- **Databases**: MySQL, MongoDB
