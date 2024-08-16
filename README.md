@@ -54,9 +54,9 @@
   </a> 
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushbhattarai7&show_icons=true&locale=en&layout=compact" alt="Aashish Neupane most used languages:" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neupane327&show_icons=true&locale=en&layout=compact" alt="Aashish Neupane most used languages:" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushbhattarai7" alt="Aashish Neupane GitHub streak:" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neupane32" alt="Aashish Neupane GitHub streak:" />
 </p>
