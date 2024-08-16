@@ -9,6 +9,14 @@
   <a href="[https://www.linkedin.com/in/aashish-neupane-a4a7bb2ab/]" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aayush Bhattarai LinkedIn" height="30" width="40" />
   </a>
+  <a href="https://www.facebook.com/ashish.neupane.773981]" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg" alt="facebook" width="40" height="40"/>
+</a>
+<a href="[https://www.instagram.com/ashish_neupane0?igsh=NjVnNDJtNmxvYjc3&utm_source=qr]" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" alt="instagram" width="40" height="40"/>
+</a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
