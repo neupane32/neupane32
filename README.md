@@ -54,7 +54,7 @@
   </a> 
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neupane327&show_icons=true&locale=en&layout=compact" alt="Aashish Neupane most used languages:" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neupane32&show_icons=true&locale=en&layout=compact" alt="Aashish Neupane most used languages:" />
 </p>
 
 <p>
