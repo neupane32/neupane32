@@ -57,5 +57,6 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neupane32" alt="Aashish Neupane GitHub streak:" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=neupane32&theme=tokyonight" alt="Aashish Neupane GitHub Streak Stats" />
 </p>
+
