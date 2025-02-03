@@ -33,14 +33,12 @@ I'm passionate about building **scalable** and **efficient** backend systems usi
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neupane32&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=neupane32&theme=tokyonight" alt="GitHub Streak" width="48%"/>
-</p>  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=neupane32&theme=tokyonight" alt="Aashish Neupane GitHub Streak Stats"/>
+</p>
 
----
 
 ### 👯️ Let's Connect  
 
