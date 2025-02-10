@@ -8,10 +8,10 @@ Passionate about backend development, building scalable systems, and learning ne
 
 ## 🚀 About Me  
 
-- 🎓 **Student & Developer** – Exploring PHP & Node.js  
-- 🌱 **Currently Learning:** Advanced Node.js, PHP, and System Design  
-- 💬 **Ask Me About:** Backend Development, APIs, and Databases  
-- 📩 **Reach Me At:** [Email](mailto:aashishneupane63@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aashish-neupane-a4a7bb2ab/)  
+- 🎓 Student & Developer exploring PHP & Node.js  
+- 🌱 Currently learning: Advanced Node.js, PHP, and System Design  
+- 💬 Ask me about: Backend Development, APIs, and Databases  
+- 📩 Reach me at: [Email](mailto:aashishneupane63@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aashish-neupane-a4a7bb2ab/)  
 
 ---
 
@@ -25,7 +25,7 @@ Passionate about backend development, building scalable systems, and learning ne
 
 ## 📊 GitHub Stats  
 
-![Aashish's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neupane32&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neupane32&theme=tokyonight)  
 
 ---
 
