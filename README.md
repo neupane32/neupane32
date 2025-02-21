@@ -8,7 +8,7 @@ I’m a passionate backend developer with a focus on building scalable systems a
 
 ## 🚀 About Me  
 
-- � **Student & Developer** specializing in backend technologies like **PHP** and **Node.js**.  
+- 🎓 **Student & Developer** specializing in backend technologies like **PHP** and **Node.js**.  
 - 🌱 **Currently learning:** Advanced Node.js, PHP, and System Design principles.  
 - 💬 **Ask me about:** Backend Development, RESTful APIs, and Database Management.  
 - 📩 **Reach out:** [Email](mailto:aashishneupane63@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aashish-neupane-a4a7bb2ab/)  
@@ -37,7 +37,7 @@ I’m a passionate backend developer with a focus on building scalable systems a
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neupane32&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=neupane32&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neupane32&layout=compact&theme=tokyonight)  
 
 ---
