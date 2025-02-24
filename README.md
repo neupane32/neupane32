@@ -1,6 +1,6 @@
 # Hi, I'm Aashish Neupane 👋  
 
-### 💻 Backend Developer | Tech Enthusiast  
+### 💻 Full stack Developer | Tech  
 
 I’m a passionate backend developer with a focus on building scalable systems and exploring new technologies. As a student and developer, I’m constantly learning and improving my skills to create efficient and robust solutions.  
 
