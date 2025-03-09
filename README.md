@@ -1,37 +1,38 @@
-# Hi, I'm Aashish Neupane 👋  
+# Hi, I'm Aashish Neupane! 👋  
 
-### 💻 Full stack Developer | Tech  
+### 💻 Full Stack Developer | Backend Enthusiast  
 
-I’m a passionate backend developer with a focus on building scalable systems and exploring new technologies. As a student and developer, I’m constantly learning and improving my skills to create efficient and robust solutions.  
+I’m a passionate **backend developer** dedicated to building **scalable and efficient** systems. I enjoy solving complex problems, working with **PHP, Node.js, and databases**, and continuously exploring new technologies to enhance my skill set.  
 
 ---
 
 ## 🚀 About Me  
 
-- 🎓 **Student & Developer** specializing in backend technologies like **PHP** and **Node.js**.  
-- 🌱 **Currently learning:** Advanced Node.js, PHP, and System Design principles.  
-- 💬 **Ask me about:** Backend Development, RESTful APIs, and Database Management.  
-- 📩 **Reach out:** [Email](mailto:aashishneupane63@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aashish-neupane-a4a7bb2ab/)  
+- 🎓 **Aspiring Software Engineer** specializing in **backend development** and **system architecture**.  
+- 🔍 **Currently Learning:** Advanced **Node.js**, **PHP**, and **System Design** principles.  
+- 💡 **Tech Enthusiast:** Passionate about **RESTful APIs**, **database optimization**, and **clean code architecture**.  
+- 💬 **Ask me about:** Backend Development, API Design, and Scalable Systems.  
+- 📩 **Let's Connect:** [Email](mailto:aashishneupane63@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aashish-neupane-a4a7bb2ab/)  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 ### Backend Development  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
 ### Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ### Frontend & Tools  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
 ---
 
