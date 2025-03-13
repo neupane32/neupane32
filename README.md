@@ -1,53 +1,45 @@
 # Hi, I'm Aashish Neupane! 👋  
 
-### 💻 Full Stack Developer | Backend Enthusiast  
+### Full Stack Developer | Backend Focus  
 
-I’m a passionate **backend developer** dedicated to building **scalable and efficient** systems. I enjoy solving complex problems, working with **PHP, Node.js, and databases**, and continuously exploring new technologies to enhance my skill set.  
+Building **scalable systems** with PHP, Node.js, and databases.  
+Passionate about clean architecture, REST APIs, and solving complex problems.  
 
 ---
 
 ## 🚀 About Me  
 
-- 🎓 **Aspiring Software Engineer** specializing in **backend development** and **system architecture**.  
-- 🔍 **Currently Learning:** Advanced **Node.js**, **PHP**, and **System Design** principles.  
-- 💡 **Tech Enthusiast:** Passionate about **RESTful APIs**, **database optimization**, and **clean code architecture**.  
-- 💬 **Ask me about:** Backend Development, API Design, and Scalable Systems.  
-- 📩 **Let's Connect:** [Email](mailto:aashishneupane63@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aashish-neupane-a4a7bb2ab/)  
+- 💻 **Backend Developer** specializing in system design and optimization.  
+- 🌱 Learning **Node.js, PHP, and System Design** to build robust solutions.  
+- 📫 Reach me: [Email](mailto:aashishneupane63@gmail.com) | [LinkedIn](https://linkedin.com/in/aashish-neupane-a4a7bb2ab)  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### Backend Development  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
 
-### Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
-### Frontend & Tools  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 Stats  
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=neupane32&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neupane32&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neupane32&layout=compact&theme=tokyonight)  
 
 ---
 
-## 📢 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aashish-neupane-a4a7bb2ab)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aashishneupane63@gmail.com)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashish-neupane-a4a7bb2ab/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashishneupane63@gmail.com)  
-
----
-
-✨ **Thanks for visiting my profile!** Feel free to explore my repositories and connect with me.  
+✨ **Thanks for visiting!**
