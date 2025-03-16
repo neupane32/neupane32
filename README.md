@@ -8,7 +8,7 @@ Building mission-critical systems with **Node.js** & **PHP** • Focused on **cl
 
 ## 🚀 **Superpowers**  
 💻 **Backend Development**  
-- Building RESTful APIs with 99.9% uptime  
+- Building RESTful APIs
 - Database architecture & query optimization  
 - Microservices & system integration  
 
