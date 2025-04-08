@@ -1,4 +1,4 @@
-# Hi, I'm Aashish Neupane!!! 👋  
+# Hi, I'm Aashish Neupane!! 👋  
 **🔥 Backend Architect | System Design Enthusiast | API Craftsman**
 
 Building mission-critical systems with **Node.js** & **PHP** • Focused on **clean architecture** & **high-performance solutions**  
